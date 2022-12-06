@@ -1,5 +1,5 @@
 # Fianans
- Project worked using HTML/CSS/BOOTSTRAP, using the idea of ​​a personal finance organization platform.
+ Project worked using HTML/CSS/BOOTSTRAP, using the idea of ​​a personal finance organization platform. Formatting for mobile display not yet available.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SaymonFarias/Unes?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/SaymonFarias/Unes?style=for-the-badge)
